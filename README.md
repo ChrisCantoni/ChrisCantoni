@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate Full Stack developer from Minneapolis</h3>
 
-- 🔭 I’m currently working on [StarGaze](https://github.com/ChrisCantoni/memory-timeline-solo)
+- 🔭 I’m currently working on [StarGaze](https://github.com/ChrisCantoni/memory-timeline-solo), my solo project for Prime Digital Academy.
 
-- 🌱 I’m currently learning **Vite, Python**
+- 🌱 I’m currently learning **Vite** and **Python**, and plan to dive into **TypeScript** soon!
 
 - 📫 How to reach me **chris.cantoni@gmail.com**
 
