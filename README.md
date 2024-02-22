@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate Full Stack developer from Minneapolis</h3>
 
-- 🔭 I’m currently working on [StarGaze](https://github.com/ChrisCantoni/memory-timeline-solo), my solo project for Prime Digital Academy.
+- I'm currently working on an app for Borderless Translations, a translation services provider in need of a contractor management solution. Our team of 6 has built the app from the ground up over the past few weeks.
+  
+- 🔭 I’m recently finished [StarGaze](https://github.com/ChrisCantoni/memory-timeline-solo), my solo project for Prime Digital Academy. StarGaze provides a way for people to keep track of the important moments in their lives without the pressures of social media.
 
 - 🌱 I’m currently learning **Vite** and **Python**, and plan to dive into **TypeScript** soon!
 
