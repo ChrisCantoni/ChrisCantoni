@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate Full Stack developer from Minneapolis</h3>
 
-- I'm currently working on [SousAI](https://www.sousai.io/), a cooking and recipe app powered by AI to enable anyone to find the recipes they want.
-  
-- 🔭 I recently finished [Borderless Translations](https://github.com/ChrisCantoni/borderless-translations), a contractor management solution to provide a translation services company with a more efficient and unified way to keep track of clients, contractors, and individual projects.
+- I'm currently working at [Datasite](www.datasite.com) as a Frontend Software Engineer.
 
-- 🌱 I’m currently learning **TypeScript** and regularly improving my skills with **Javascript**, **React** and **SQL**.
+- 🌱 I’m currently learning **TypeScript** and **React Native**, while regularly improving my skills with **Javascript** and **React**.
 
 - 📫 How to reach me: **chris.cantoni@gmail.com**
 
